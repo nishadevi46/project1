@@ -45,7 +45,7 @@ header{
 
 }
 section{
-    color: rgb(208, 82, 152);
+    color: rgb(231, 95, 170);
     font-family: cursive;
     font-size: xxx-large;
     text-align: center;
@@ -84,3 +84,24 @@ body
     margin:0px;
     
 }
+.btn{
+    margin-top: 40px;
+    cursor: pointer;
+    width: 25%;
+    
+   
+}
+#btn1 img{
+height: 600px;
+width:100%;
+margin: 0px;
+
+
+}
+#btn1{
+    margin-left: 50px;
+}
+#btn2{
+   
+}
+#btn3{}
