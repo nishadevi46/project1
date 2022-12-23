@@ -92,16 +92,33 @@ body
    
 }
 #btn1 img{
-height: 400px;
+height: 600px;
 width:100%;
 margin: 0px;
 
 
 }
 #btn1{
-    margin-left: 50px;
+    margin-left: 100px;
 }
 #btn2{
+   margin-left:100px;
+}
+#btn3{margin-left:100px;
+}
+.container3{
+    display: inline;
+}
+#para11{
+    margin-left: 100px;
+    text-align: justify;
+    width: 25%;
+    color: white;
+    font-family: cursive;
+    font-size:medium;
+   display: block;
    
 }
-#btn3{}
+.para2{
+   
+}
