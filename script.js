@@ -6,3 +6,11 @@ function hide(){
    else{
    para.style.display='block';}
 }
+function toggle(){
+    let btn=document.getElementById('btn2');
+    let para=document.getElementByclass('container3');
+    if(para.display.style !='none'){
+    para.style.display='none';}
+    else{
+    para.style.display='inline-flex';}
+ }
