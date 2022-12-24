@@ -386,16 +386,28 @@ body {
 .container6{
     color: white;
     display: block;
-    height:170px;
+    height:200px;
     
     margin-bottom: 0px;
     width: 100%;
     text-align: center;
-    padding: 60x 300px;
-    font-family: cursive;
-    font-size: 40px;
+  
+    
+  
    background-color: rgb(69, 79, 95);
 }
-#footer{
-    padding-top: 60px;
+#f{
+     margin-top: 0px;
+    font-family: cursive;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: rgb(245, 126, 191);
 }
+#f1{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+   padding-bottom: 50px;
+padding-top: 0px;}
