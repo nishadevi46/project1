@@ -18,6 +18,7 @@
     position: absolute;
     right: 0px;
     top: 20px;
+    
     display: inline-block;
 
 }
@@ -35,7 +36,7 @@
 .navbar li a {
     display: inline;
     color: white;
-    margin: 0px 20px;
+    margin: 0px 0px;
     font-family: cursive;
     font-size: x-large;
 
@@ -144,7 +145,7 @@ body {
 }
 
 #para11 {
-    margin-left: 110px;
+    margin-left: 90px;
     text-align: justify;
     width: 25%;
     color: rgb(255, 255, 255);
@@ -221,7 +222,7 @@ body {
 
 #para31 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 90px;
     text-align: left;
     width: 25%;
     color: white;
@@ -290,7 +291,7 @@ body {
 }
 #para41 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 90px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -320,7 +321,7 @@ body {
 }
 #para51 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 90px;
     text-align: justify;
     width: 25%;
     color: white;
