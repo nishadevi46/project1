@@ -131,11 +131,11 @@ body {
 }
 
 #btn2 {
-    margin-left: 110px;
+    margin-left: 100px;
 }
 
 #btn3 {
-    margin-left: 110px;
+    margin-left: 100px;
 }
 
 .container3 {
@@ -173,7 +173,7 @@ body {
 
 #para13 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 100px;
     text-align: left;
     width: 25%;
     color: white;
@@ -212,11 +212,11 @@ body {
 }
 
 #btn5 {
-    margin-left: 110px;
+    margin-left: 100px;
 }
 
 #btn6 {
-    margin-left: 110px;
+    margin-left: 100px;
 }
 
 #para31 {
@@ -243,7 +243,7 @@ body {
 
 #para33 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 100px;
     text-align: left;
     width: 25%;
     color: white;
@@ -273,10 +273,10 @@ body {
     margin-left: 110px;
 }
 #btn8{
-    margin-left: 110px;
+    margin-left: 100px;
 }
 #btn9{
-    margin-left: 110px;
+    margin-left: 100px;
 }
 .container4 {
     display: inline-block;
@@ -310,6 +310,16 @@ body {
 }
 #para43 {
     margin-top: 10px;
+    margin-left: 80px;
+    text-align: justify;
+    width: 25%;
+    color: white;
+    font-family: cursive;
+    font-size: 18px;
+    display: inline-flex;
+}
+#para51 {
+    margin-top: 10px;
     margin-left: 110px;
     text-align: justify;
     width: 25%;
@@ -317,4 +327,70 @@ body {
     font-family: cursive;
     font-size: 18px;
     display: inline-flex;
+}
+#para52 {
+    margin-top: 10px;
+    margin-left: 110px;
+    text-align: justify;
+    width: 25%;
+    color: white;
+    font-family: cursive;
+    font-size: 18px;
+    display: inline-flex;
+}
+#para53{
+    margin-top: 10px;
+    margin-left: 90px;
+    text-align: justify;
+    width: 25%;
+    color: white;
+    font-family: cursive;
+    font-size: 18px;
+    display: inline-flex;
+}
+.btn8 {
+    margin-top: 40px;
+    cursor: pointer;
+    width: 25%;
+
+}
+.container5 {
+    display: inline-block;
+
+}
+#btn10 img {
+    height: 550px;
+    width: 100%;
+    margin: 0px;
+}
+#btn11 img {
+    height: 550px;
+    width: 100%;
+    margin: 0px;
+}
+#btn12 img {
+    height: 550px;
+    width: 100%;
+    margin: 0px;
+}
+#btn10{
+    margin-left: 110px;
+}
+#btn11{
+    margin-left: 100px;
+}
+#btn12{
+    margin-left: 100px;
+}
+.container6{
+    color: white;
+    display: block;
+    height:80px;
+    margin-bottom: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 60x 300px;
+    font-family: cursive;
+    font-size: 40px;
+   background-color: rgb(69, 79, 95);
 }
