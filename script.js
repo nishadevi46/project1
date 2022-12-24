@@ -9,7 +9,7 @@ function hide(){
 }
 function toggle(){
     let btn=document.getElementById('btn2');
-    let para=document.getElementByclass('para12');
+    let para=document.getElementByclass('para3');
     if(para.display.style !='none'){
     para.style.display='none';}
     else{
