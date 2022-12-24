@@ -140,7 +140,8 @@ body {
 }
 
 .container3 {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
 
 }
 
@@ -280,7 +281,8 @@ body {
     margin-left: 100px;
 }
 .container4 {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
 
 }
 .btnuu {
@@ -356,7 +358,8 @@ body {
 
 }
 .container5 {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
 
 }
 #btn10 img {
@@ -392,7 +395,7 @@ body {
     width: 100%;
     text-align: center;
   
-    
+    margin-top: 30px;
   
    background-color: rgb(69, 79, 95);
 }
