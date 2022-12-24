@@ -386,7 +386,8 @@ body {
 .container6{
     color: white;
     display: block;
-    height:80px;
+    height:170px;
+    
     margin-bottom: 0px;
     width: 100%;
     text-align: center;
@@ -394,4 +395,7 @@ body {
     font-family: cursive;
     font-size: 40px;
    background-color: rgb(69, 79, 95);
+}
+#footer{
+    padding-top: 60px;
 }
