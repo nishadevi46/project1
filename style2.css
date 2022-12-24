@@ -145,7 +145,7 @@ body {
 }
 
 #para11 {
-    margin-left: 90px;
+    margin-left: 100px;
     text-align: justify;
     width: 25%;
     color: rgb(255, 255, 255);
@@ -157,7 +157,7 @@ body {
 
 #para12 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 90px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -174,7 +174,7 @@ body {
 
 #para13 {
     margin-top: 10px;
-    margin-left: 100px;
+    margin-left: 80px;
     text-align: left;
     width: 25%;
     color: white;
@@ -217,21 +217,10 @@ body {
 }
 
 #btn6 {
-    margin-left: 100px;
+    margin-left: 80px;
 }
 
 #para31 {
-    margin-top: 10px;
-    margin-left: 90px;
-    text-align: left;
-    width: 25%;
-    color: white;
-    font-family: cursive;
-    font-size: 18px;
-    display: inline-flex;
-}
-
-#para32 {
     margin-top: 10px;
     margin-left: 110px;
     text-align: left;
@@ -242,9 +231,20 @@ body {
     display: inline-flex;
 }
 
-#para33 {
+#para32 {
     margin-top: 10px;
     margin-left: 100px;
+    text-align: left;
+    width: 25%;
+    color: white;
+    font-family: cursive;
+    font-size: 18px;
+    display: inline-flex;
+}
+
+#para33 {
+    margin-top: 10px;
+    margin-left: 80px;
     text-align: left;
     width: 25%;
     color: white;
@@ -277,7 +277,7 @@ body {
     margin-left: 100px;
 }
 #btn9{
-    margin-left: 100px;
+    margin-left: 80px;
    
 }
 .container4 {
@@ -292,7 +292,7 @@ body {
 }
 #para41 {
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 110px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -302,7 +302,7 @@ body {
 }
 #para42 {
     margin-top: 10px;
-    margin-left: 120px;
+    margin-left: 100px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -322,7 +322,7 @@ body {
 }
 #para51 {
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 110px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -332,7 +332,7 @@ body {
 }
 #para52 {
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 100px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -342,7 +342,7 @@ body {
 }
 #para53{
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 80px;
     text-align: justify;
     width: 25%;
     color: white;
@@ -382,7 +382,7 @@ body {
     margin-left: 100px;
 }
 #btn12{
-    margin-left: 100px;
+    margin-left: 80px;
 }
 .container6{
     color: white;
